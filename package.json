@@ -13,7 +13,9 @@
   },
   "files": [
     "dist",
-    "src/**/*.js"
+    "README.md",
+    "LICENSE",
+    "src"
   ],
   "keywords": [
     "react",
@@ -33,5 +35,8 @@
   "peerDependencies": {
     "react-native": "*",
     "react": "*"
+  },
+  "typescript": {
+    "tsconfig": "./tsconfig.json"
   }
 }
