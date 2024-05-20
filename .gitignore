@@ -1,7 +1,9 @@
 # OSX
 #
 .DS_Store
+dist/
 
+.npmignore
 # Xcode
 #
 build/
@@ -35,7 +37,8 @@ local.properties
 node_modules/
 npm-debug.log
 yarn-error.log
-
+build/
+dist/
 # Custom
 *.todo
 *.bat
