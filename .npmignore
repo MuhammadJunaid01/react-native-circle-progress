@@ -8,7 +8,6 @@ tests/
 *.test.ts
 *.spec.tsx
 *.test.tsx
-README
 # Exclude build directories
 build/
 dist/
